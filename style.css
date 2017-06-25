@@ -21,7 +21,7 @@ a {
 	border-bottom: 2px solid transparent;
 	}
 a:hover {
-	border: white;
+	border-color: white;
 }
 h2 {
 	font-family: "Raleway",sans-serif;
